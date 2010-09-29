@@ -2,6 +2,7 @@
 <title>Taylor Mitchell's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 18 times with git add -p.</description></item>
 <item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 13 times with git add -p.</description></item>
