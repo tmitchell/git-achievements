@@ -2,6 +2,7 @@
 <title>Taylor Mitchell's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Goldsmith (Level 1)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 10 times with git add -p.</description></item>
