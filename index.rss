@@ -2,6 +2,12 @@
 <title>Taylor Mitchell's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Pilgrim (Level 5)</title><description>Performed a rebase using git rebase --onto.</description></item>
+<item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
+<item><title>Master Blacksmith (Level 7)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Plumber (Level 2)</title><description>Use the internal plumbing commands of git.</description></item>
 <item><title>Apprentice Plumber (Level 1)</title><description>Use the internal plumbing commands of git.</description></item>
 <item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
@@ -16,10 +22,4 @@
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Seamstress (Level 6)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
-<item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Miller (Level 7)</title><description>Add only part of a file to the stage 521 times with git add -p.</description></item>
-<item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Pilgrim (Level 4)</title><description>Performed a rebase using git rebase --onto.</description></item>
 </channel></rss>
