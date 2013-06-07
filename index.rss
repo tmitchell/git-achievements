@@ -2,6 +2,7 @@
 <title>Taylor Mitchell's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Hunter (Level 6)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Master Product Manager (Level 9)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Stone Mason (Level 12)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Socialite (Level 10)</title><description>pushed a branch to a remote repository using git push</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Seamstress (Level 8)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Master Author (Level 11)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Miller (Level 9)</title><description>Add only part of a file to the stage 2400 times with git add -p.</description></item>
-<item><title>Cathedral Worker (Level 4)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 </channel></rss>
